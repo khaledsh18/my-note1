@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Note</string>
+    <string name="add_note_title">اضف ملاحظة جديدة، اختر النوع واللون</string>
+    <string name="add_note_text">أكتب ملاحظة هنا</string>
+    <string name="add_note">اضافة</string>
+    <string name="message_not_choose_image">الرجاء اختيار صورة</string>
+    <string name="null_var">تأكد من ادخال البيانات المختارة</string>
+    <string name="permissionDenied">الرجاء منح صلاحية الوصول للصور لاختيار صورة</string>
+</resources>
